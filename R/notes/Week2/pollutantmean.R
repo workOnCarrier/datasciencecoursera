@@ -6,7 +6,7 @@ getfilenameFromIndex <- function ( index ){
   }
   strIndex
 }
-pollutantmean <- function ( directory, pollutant, id = 1:322 ){
+pollutantmean <- function ( directory, pollutant, id = 1:332 ){
   ## directory -- character vector of length 1 indicating location of 
   ##              the CSV files
   ## pollutant -- character vector of length 1 indicating name of the pollutant
